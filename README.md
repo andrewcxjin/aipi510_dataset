@@ -45,3 +45,6 @@ The study involved a single participant (myself) who provided informed consent a
 
 ## License
 [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/deed.en)
+
+## Kaggle
+[Link to Kaggle Dataset](https://www.kaggle.com/datasets/andrewcxjin/whoop-dataset)
